@@ -7,6 +7,7 @@ public class fall1test {
 	@Test
 	public void camera1() {
 		System.out.println("hello1");
+		System.out.println("hello2");
 	}
 
 }
